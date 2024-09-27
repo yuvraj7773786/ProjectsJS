@@ -6,7 +6,7 @@
 # Solution Code :
 [Click Here](https://stackblitz.com/edit/stackblitz-starters-dpvuv4?file=1-ColourChange%2Findex.htm)
 
-### Code(JS) : 
+### Project 1
 
 
 ``` JavaScript
